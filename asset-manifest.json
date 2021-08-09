@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://all-rounder-tuber.github.io/csb-qy5vi/static/css/main.9db20b4e.chunk.css",
+    "main.js": "https://all-rounder-tuber.github.io/csb-qy5vi/static/js/main.cda716ec.chunk.js",
+    "main.js.map": "https://all-rounder-tuber.github.io/csb-qy5vi/static/js/main.cda716ec.chunk.js.map",
+    "runtime-main.js": "https://all-rounder-tuber.github.io/csb-qy5vi/static/js/runtime-main.1e635056.js",
+    "runtime-main.js.map": "https://all-rounder-tuber.github.io/csb-qy5vi/static/js/runtime-main.1e635056.js.map",
+    "static/js/2.ab4f94fe.chunk.js": "https://all-rounder-tuber.github.io/csb-qy5vi/static/js/2.ab4f94fe.chunk.js",
+    "static/js/2.ab4f94fe.chunk.js.map": "https://all-rounder-tuber.github.io/csb-qy5vi/static/js/2.ab4f94fe.chunk.js.map",
+    "index.html": "https://all-rounder-tuber.github.io/csb-qy5vi/index.html",
+    "precache-manifest.63bd5e0567f39537a7056f8fd48e8ed8.js": "https://all-rounder-tuber.github.io/csb-qy5vi/precache-manifest.63bd5e0567f39537a7056f8fd48e8ed8.js",
+    "service-worker.js": "https://all-rounder-tuber.github.io/csb-qy5vi/service-worker.js",
+    "static/css/main.9db20b4e.chunk.css.map": "https://all-rounder-tuber.github.io/csb-qy5vi/static/css/main.9db20b4e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e635056.js",
+    "static/js/2.ab4f94fe.chunk.js",
+    "static/css/main.9db20b4e.chunk.css",
+    "static/js/main.cda716ec.chunk.js"
+  ]
+}
